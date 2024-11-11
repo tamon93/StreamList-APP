@@ -1,0 +1,21 @@
+.navigation-bar {
+    background-color: #343a40;
+    padding: 1rem;
+}
+
+.navigation-bar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+
+.navigation-bar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navigation-bar a:hover {
+    color: #ffc107;
+}
